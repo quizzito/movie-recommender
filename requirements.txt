@@ -1,0 +1,32 @@
+# Core
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.0
+scikit-learn==1.5.0
+
+# Recommender systems
+scikit-surprise
+implicit==0.7.2
+
+# Deep learning (NCF)
+torch==2.3.0
+torchvision==0.18.0
+
+# Kaggle API
+kaggle==1.6.14
+
+# Data / EDA
+matplotlib==3.9.0
+seaborn==0.13.2
+plotly==5.22.0
+jupyter==1.0.0
+ipykernel==6.29.4
+
+# Utilities
+python-dotenv==1.0.1
+tqdm==4.66.4
+joblib==1.4.2
+PyYAML==6.0.1
+
+# Experiment tracking (optional but recommended)
+mlflow==2.13.0
